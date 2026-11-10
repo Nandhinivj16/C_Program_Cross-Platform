@@ -10,6 +10,7 @@
  */
 #include <stdio.h>
 #include "../include/common/stats.h"
+#include "../include/common/platform.h"
 
 #define SIZE (40)
 

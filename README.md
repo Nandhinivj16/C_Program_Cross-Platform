@@ -1,8 +1,8 @@
 ## Files
 
 ## Build and run
-    gcc -Wall -Werror -o stats stats.c
-    ./stats
+    make build PLATFORM=HOST COURSE1=TRUE  VERBOSE=TRUE
+    ./c1m2.out
 
 ## Author
 Nandhini Rajapandiyan

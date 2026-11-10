@@ -21,9 +21,11 @@
  *
  */
 #include "../include/common/course1.h"
+#include "../include/common/stats.h"
 
 /* A pretty boring main file */
 int main(void) {
+	test_stats();
 	#ifdef COURSE1
 	  course1();
 	#endif
